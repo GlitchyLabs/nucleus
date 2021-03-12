@@ -4,6 +4,7 @@
 
 A configurable and versatile update server for all your Electron apps
 
+
 ## Features
 
 * Multiple applications
